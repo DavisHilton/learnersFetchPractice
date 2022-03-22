@@ -6,7 +6,7 @@
 
 function makeCall() {
   // Use the fetch api to display some simple user data to the console!
-  url = "https://reqres.in/api/users";  
+  let url = "https://reqres.in/api/users";  
 
   
   fetch() // call the fetch api with the correct input argument!
